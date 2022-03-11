@@ -2,13 +2,21 @@
     "name": "ashu2693/mastercard-match-php",
     "description": "This is the api for match",
     "license": "MIT",
+    "type": "library",
+    "require": {
+        "ashu2693/mastercard-api-core": "dev-master"
+    },
     "autoload": {
         "psr-0": {
             "MasterCard": ""
         }
     },
-    "archive": {
-        "exclude": ["/result", "/*.p12", ".gitignore", "allfiles.tar"]
-    },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": false,
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ashu2693/mastercard-match-php"
+        }
+    ]
 }

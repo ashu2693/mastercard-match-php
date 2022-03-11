@@ -2,9 +2,6 @@
     "name": "ashu2693/mastercard-match-php",
     "description": "This is the api for match",
     "license": "MIT",
-    "require": {
-        "mastercard/mastercard-api-core": ">=1.4.0 <1.5.0"
-    },
     "autoload": {
         "psr-0": {
             "MasterCard": ""

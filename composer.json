@@ -3,9 +3,7 @@
     "description": "This is the api for match",
     "license": "MIT",
     "type": "library",
-    "require": {
-        "ashu2693/master-card-api-core": "dev-master"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {}
     },

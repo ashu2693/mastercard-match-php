@@ -6,7 +6,9 @@
             "ashu2693/master-card-api-core": "dev-master"
     },
     "autoload": {
-        "psr-4": {}
+        "psr-0": {
+            "MasterCard": ""
+        }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,

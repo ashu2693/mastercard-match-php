@@ -4,7 +4,7 @@
     "license": "MIT",
     "type": "library",
     "require": {
-            "ashu2693/master-card-api-core": "1.0.0"
+            "ashu2693/master-card-api-core": "dev-master"
     },
     "autoload": {
         "psr-4": {}

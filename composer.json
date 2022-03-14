@@ -1,6 +1,5 @@
 {
     "name": "ashu2693/mastercard-match-php",
-    "description": "This is the api for match",
     "license": "MIT",
     "type": "library",
     "require": {
